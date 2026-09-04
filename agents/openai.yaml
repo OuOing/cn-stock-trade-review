@@ -1,0 +1,4 @@
+interface:
+  display_name: "A股逐笔交易复盘"
+  short_description: "结合行情、公告、缠论结构与完整手续费复盘个人A股交易"
+  default_prompt: "使用 $cn-stock-trade-review 逐笔分析我的A股交易并生成复盘日记。"
